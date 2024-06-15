@@ -1,0 +1,4 @@
+git checkout -b nova-funcionalidade
+git add .
+git commit -m "Adiciona nova funcionalidade: descrição curta das mudanças realizadas"
+git push origin nova-funcionalidade
